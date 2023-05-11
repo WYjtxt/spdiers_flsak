@@ -1,0 +1,13 @@
+Flask
+Flask-APScheduler
+beautifulsoup4==4.11.1
+chinese_calendar==1.8.0
+lxml==4.9.1
+openpyxl==3.0.10
+gunicorn
+gevent
+pandas==1.4.4
+PyMySQL==1.0.2
+Requests==2.30.0
+xlrd==1.2.0
+
